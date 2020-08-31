@@ -9,10 +9,11 @@ Weiterhin liegt das Projekt hier: https://github.com/stan23/HM-ES-PMSw1-Pl_Gosun
 
 Dies basiert auf der hervorragenden Arbeit von [pa-pa](https://github.com/pa-pa/AskSinPP) und [Jérôme](https://github.com/jp112sdl/Beispiel_AskSinPP).
 
+# Achtung WOP!
 
 *Achtung*: es kann verschiedene Versionen der Gosund/Blitzwolf-Stecker geben. Diese Platine passt bei folgender Version:
 
 ![Blitzwolf SHP2](https://github.com/stan23/HM-ES-PMSw1-Pl_GosundSP1/blob/master/Bilder/Blitzwolf_SHP2.jpg)
 
 
-# Achtung WOP!
+
