@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name HM-ES-PMSw1-Pl_GosundSP1-rescue)(type Legacy)(uri ${KIPRJMOD}/HM-ES-PMSw1-Pl_GosundSP1-rescue.lib)(options "")(descr ""))
+  (lib (name cc1101-module)(type Legacy)(uri ${KIPRJMOD}/libraries/cc1101-module.lib)(options "")(descr ""))
+  (lib (name BW_Gosund_Con)(type Legacy)(uri ${KIPRJMOD}/libraries/BW_Gosund_Con.lib)(options "")(descr ""))
+)
